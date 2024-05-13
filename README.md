@@ -44,3 +44,6 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da En
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=sofiavasconcelosms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 -----
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=E5059F&section=footer&reversal=true">
+</div>
