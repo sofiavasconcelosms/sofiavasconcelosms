@@ -1,7 +1,7 @@
 
 <!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! -->
 
-# 👋 Hello! Welcome to my Github profile.
+# 👋 Olá! Seja bem-vindo ao meu perfiu de Github.
 ## Meu nome é Sofia Vasconcelos!
 
 
